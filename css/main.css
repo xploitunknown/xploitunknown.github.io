@@ -1,4 +1,17 @@
 p {
-	color: yellow;
-	
+	color: #552700;
 }
+
+body {
+	font-size: 1.5em;
+	backround-color: #86C98A;
+		
+	color: #061539;
+	text-alighn: center;
+	boder-style: solid;
+	border-width: 4px;
+	margin-left: 75px;
+	margin-right: 75px;
+	padding-top: 50px;
+	padding-bottom 50px;
+	backround-color: #7887AB;
