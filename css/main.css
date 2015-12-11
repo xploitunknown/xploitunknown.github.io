@@ -5,7 +5,7 @@ p {
 body {
 	font-size: 1.5em;
 	backround-color: #86C98A;
-		
+	
 	color: #061539;
 	text-alighn: center;
 	boder-style: solid;
@@ -15,3 +15,8 @@ body {
 	padding-top: 50px;
 	padding-bottom 50px;
 	backround-color: #7887AB;
+}
+
+#mainContent {
+	margin-left: 75px;
+	margin-right: 75px;
